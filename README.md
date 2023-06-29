@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omonillo Tojidinov
 - 👀 I’m interested in programming, movies, sports and business
-- 🌱 I’m currently learning PHP, NodJs, Laravel, Python and Django
+- 🌱 I’m currently learning PHP, NodJs, Laravel, OOP, Python, Delphi, Pascal, Js, Django and Adobe Photohsop, Adobe Premiery Pro
 - 💞️ I’m looking to collaborate on With software engineering companies
 - 📫 How to reach me Tell: +998931490290; Email: tojidinovdev@gmail.com
 
